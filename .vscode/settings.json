@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "khssr/src/rust/Cargo.toml",
+        "khrs/Cargo.toml"
+    ]
+}
